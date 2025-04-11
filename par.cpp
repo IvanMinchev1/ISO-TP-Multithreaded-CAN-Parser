@@ -1,4 +1,3 @@
-// iso_tp_multithread_ordered.cpp
 #include <iostream>
 #include <fstream>
 #include <string>
